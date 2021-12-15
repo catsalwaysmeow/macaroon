@@ -13,7 +13,7 @@ Macaroon is a simple shell theme, especially for coder girls, designed with snow
 
 ## Install
 
-1. Click [here](https://github.com/ryanoasis/nerd-fonts) to download and install a nerd font, and then apply it to your terminal. 
+1. Go [here](https://www.nerdfonts.com/) to download and install a nerd font, and then apply it to your terminal. 
 
 2. Follow the steps below (Posh/Zsh, depending on your environment): 
 
