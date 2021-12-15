@@ -1,5 +1,5 @@
 ## Macaroon
-Macaroon is a simple shell theme, especially for coder girls, designed with snow, mimi pink, water and pale lavender. Currently it supports [*oh-my-posh*](https://ohmyposh.dev/) (for *bash*/*zsh*/*pwsh*/*fish*/*nu*) and [*oh-my-zsh*](https://ohmyz.sh/) (for *zsh*). Hope you'll enjoy it ~ (\*^▽^)/★\*☆ 
+Macaroon is a simple cli theme, especially for coder girls, designed with snow, mimi pink, water and pale lavender. Currently it supports [*oh-my-posh*](https://ohmyposh.dev/) (for *bash*/*zsh*/*pwsh*/*fish*/*nu*) and [*oh-my-zsh*](https://ohmyz.sh/) (for *zsh*). Hope you'll enjoy it ~ (\*^▽^)/★\*☆ 
 
 ## Preview
 
