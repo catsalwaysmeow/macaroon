@@ -43,5 +43,5 @@ Macaroon is a simple cli theme, especially for coder girls, designed with snow, 
 
 ## Help Wanted
 
-[Lan](https://github.com/idyllan) is a newbie to Linux and English. It would be nice if you could correct grammatical mistakes or bugs in this repo.  Pull request and issue all are welcome ~ o(\*^▽^\*)o 
+[Lan](https://github.com/catsalwaysmeow) is a newbie to Linux and English. It would be nice if you could correct grammatical mistakes or bugs in this repo.  Pull request and issue all are welcome ~ o(\*^▽^\*)o 
 
